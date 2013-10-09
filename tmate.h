@@ -20,7 +20,7 @@ do {							\
 /* tmate-encoder.c */
 
 #define TMATE_LATEST_VERSION "1.8.9"
-#define TMATE_DOMAIN "tmate.io"
+#define TMATE_DOMAIN "tmate.partkyle.com"
 
 enum tmate_client_commands {
 	TMATE_NOTIFY,
